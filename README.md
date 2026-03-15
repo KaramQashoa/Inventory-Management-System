@@ -15,7 +15,13 @@ A robust desktop application developed using C# and Windows Forms. This system i
 
 ## 📸 Screenshots
 
+![Screenshot](Start.png)
 
+![Screenshot](Worker.png)
+
+![Screenshot](Custemer.png)
+
+![Screenshot](Product.png)
 
 
 ## 💡 What I Learned
