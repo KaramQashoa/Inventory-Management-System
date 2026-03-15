@@ -14,7 +14,8 @@ A robust desktop application developed using C# and Windows Forms. This system i
 * **Architecture:** Object-Oriented Programming (OOP)
 
 ## 📸 Screenshots
-*(Screenshots of the application interface will be added here soon)*
+
+
 
 ## 💡 What I Learned
 Through this project, I strengthened my skills in Object-Oriented Programming (OOP), designing UI with Windows Forms, and managing data flow between the backend and the graphical interface.
