@@ -15,13 +15,13 @@ A robust desktop application developed using C# and Windows Forms. This system i
 
 ## 📸 Screenshots
 
-![Screenshot](Start.png)
+![Screenshot](screenshots/Start.png)
 
-![Screenshot](Worker.png)
+![Screenshot](screenshots/Worker.png)
 
-![Screenshot](Custemer.png)
+![Screenshot](screenshots/Custemer.png)
 
-![Screenshot](Product.png)
+![Screenshot](screenshots/Product.png)
 
 
 ## 💡 What I Learned
